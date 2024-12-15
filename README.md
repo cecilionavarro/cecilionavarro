@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cecilion7&label=Profile%20views&color=0e75b6&style=flat" alt="cecilion7" /> </p>
 
-- 👨‍💻 All of my projects are available at [cecilionavarro.com](cecilionavarro.com)
+- 👨‍💻 All of my projects are available at [cecilionavarro.com](https://cecilionavarro.com)
 
-- 📝 I regularly write articles on [cecilionavarro.com/blog](cecilionavarro.com/blog)
+- 📝 I regularly write articles on [cecilionavarro.com/blog](https://cecilionavarro.com/blog)
 
 - 📫 How to reach me **ceciliosnavarro@gmail.com**
 

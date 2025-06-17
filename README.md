@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cecilionavarro&label=Profile%20views&color=0e75b6&style=flat" alt="cecilionavarro" /> </p>
 
 
-- 🔭 I’m currently working on **Worship Resource Management Tool**
+- 🔭 I’m currently working on [Worship Resource Management Tool](https://github.com/cecilionavarro/03-worship-resource-management-system)
 
 - 👨‍💻 All of my projects are available at [cecilionavarro.com](cecilionavarro.com)
 

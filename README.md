@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://cecilionavarro.com/images/Cecilio%20Navarro%20-%20Software%20Engineer%202025%20resume.pdf](https://cecilionavarro.com/images/Cecilio%20Navarro%20-%20Software%20Engineer%202025%20resume.pdf)
 
-- ⚡ Fun fact **I can spend 4 hours automating a task that takes 4 minutes. Because it’s worth it.**
+- ⚡ Fun fact **I have pet shrimp**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

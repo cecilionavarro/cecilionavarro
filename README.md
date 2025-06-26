@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cecilio Samuel Navarro</h1>
-<h3 align="center">A passionate frontend developer from California</h3>
+<h3 align="center">A full-stack software engineer from California with 5 years coding experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cecilionavarro&label=Profile%20views&color=0e75b6&style=flat" alt="cecilionavarro" /> </p>
 
@@ -8,9 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [cecilionavarro.com](cecilionavarro.com)
 
-- 📝 I regularly write articles on [ceciliosnavarro.com/blog](ceciliosnavarro.com/blog)
+- 📝 I regularly write articles on https://dev.to/cecilionavarro
 
-- 📫 How to reach me **ceciliosnavarro@gmail.com**
+- 📫 How to reach me ceciliosnavarro@gmail.com
 
 - 📄 Know about my experiences [https://cecilionavarro.com/images/Cecilio%20Navarro%20-%20Software%20Engineer%202025%20resume.pdf](https://cecilionavarro.com/images/Cecilio%20Navarro%20-%20Software%20Engineer%202025%20resume.pdf)
 
